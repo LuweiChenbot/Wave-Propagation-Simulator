@@ -13,5 +13,6 @@ tation is presented. Finally, a discussion on outcomes and limitations are provi
 
 ### References
 Bensa, B. S. K.-M. R. . S. J. O. r., J. (2003). The simulation of piano string vibration: from
-physical models to finite difference schemes and digital waveguides. The Journal of
+physical models to finite difference schemes and digital waveguides. 
+The Journal of
 the Acoustical Society of America, 114(2), 1095–1107. doi: 10.1121/1.1587146
