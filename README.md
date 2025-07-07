@@ -1,5 +1,6 @@
 ## Wave-Propagation-Simulator
-
+For theoretical background and modeling details, see:
+👉 [📄 WavePropagationIntroduction.pdf](./WavePropagationIntroduction.pdf)
 ### Introduction
 Mathematical model for wave propagation are often entangled in implicit nonlinear partial
 differential equations with complex spatial and temporal derivatives. Often, the complex-
